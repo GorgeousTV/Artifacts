@@ -6,4 +6,4 @@
 
 [Таблица с тест-планом командного проекта](https://docs.google.com/spreadsheets/d/172pqfbffP2OEBRm1-opo_oa6nmNMuon-rr_t2RBKGX4/edit?usp=sharing)
 
-[Сгрупированный и оформленный мною общий командный проект]https://docs.google.com/spreadsheets/d/1yu_F2u5MBD-tMJqI-JOaxtnG5h7DWzifNEeiH5EkLJg/edit?usp=sharing)
+[Сгрупированный и оформленный мною общий командный проект](https://docs.google.com/spreadsheets/d/1yu_F2u5MBD-tMJqI-JOaxtnG5h7DWzifNEeiH5EkLJg/edit?usp=sharing)
