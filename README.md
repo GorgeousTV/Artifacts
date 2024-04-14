@@ -1,5 +1,7 @@
 [Yandex Prilavok](https://docs.google.com/spreadsheets/d/1PW2svQP87FNOJBGYqrKUbZXmw52_EChXFNTQU2PYL8s/edit?usp=sharing)
 
+[Yandex Prilavok один пользовательский кейс]
+
 [Yandex Metro 01](https://docs.google.com/spreadsheets/d/1fkPmypYdvmqBjEfLpqaDXwLmTAiSASNJLcD6K3JI4KI/edit?usp=sharing)
 
 [Yandex Metro 02](https://docs.google.com/spreadsheets/d/1ZWWrjrpGkO5qfRA4FAZzw34i8ZBYVmdSXKaoBj0dmho/edit?usp=sharing)
