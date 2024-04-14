@@ -1,3 +1,11 @@
+[Yandex Prilavok](https://docs.google.com/spreadsheets/d/1PW2svQP87FNOJBGYqrKUbZXmw52_EChXFNTQU2PYL8s/edit?usp=sharing)
+
+[Yandex Metro 01](https://docs.google.com/spreadsheets/d/1fkPmypYdvmqBjEfLpqaDXwLmTAiSASNJLcD6K3JI4KI/edit?usp=sharing)
+
+[Yandex Metro 02](https://docs.google.com/spreadsheets/d/1ZWWrjrpGkO5qfRA4FAZzw34i8ZBYVmdSXKaoBj0dmho/edit?usp=sharing)
+
+[Yandex Metro 03](https://docs.google.com/spreadsheets/d/1aIxS52r_Ulp6p5cKEoacmCj26gwVloTVVmP6zNrUgsQ/edit?usp=sharing)
+
 [Задача из тестового задания Яндекса](https://docs.google.com/spreadsheets/d/1XYVaAAn76NcPRt4XHJqOVleImj5HIcxVe_ZV-7nObXc/edit?usp=sharing)
 
 [КЭ и ГЗ](https://docs.google.com/spreadsheets/d/1LyuDsBCwFvHX903TFTRgS80JIpxxgc7QMOWyf-ZB9H0/edit?usp=sharing)
