@@ -14,6 +14,8 @@
 
 [КЭ и ГЗ](https://docs.google.com/spreadsheets/d/1bB-HqdmyySY5EBjL3gGZ1ZQukQTD9VLBLBC8o9iPLO4/edit?usp=sharing)
 
+[Чек лист Kittygramm](https://docs.google.com/spreadsheets/d/1_7Ita9tSIyA437GEJPH_DoTcckU7UfOutVZ03pT2oGo/edit?usp=sharing)
+
 [Таблица с тест-планом командного проекта](https://docs.google.com/spreadsheets/d/172pqfbffP2OEBRm1-opo_oa6nmNMuon-rr_t2RBKGX4/edit?usp=sharing)
 
 [Сгрупированный и оформленный мною общий командный проект](https://docs.google.com/spreadsheets/d/1yu_F2u5MBD-tMJqI-JOaxtnG5h7DWzifNEeiH5EkLJg/edit?usp=sharing)
